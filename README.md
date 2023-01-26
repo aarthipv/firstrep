@@ -1,2 +1,2 @@
 # firstrep
-my first reository
+my first repository
